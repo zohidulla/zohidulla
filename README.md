@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**zohidulla/zohidulla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack JavaScript developer, with a focus on building clean, efficient, and user-friendly web applications.
+I enjoy solving real-world problems with code and continuously learning new technologies to sharpen my skills.
 
-Here are some ideas to get you started:
+- 🌱 Always learning: Modern frontend frameworks, performance optimization, clean architecture and software architecture patterns.
+- 🚀 I enjoy working on open-source projects and collaborative development
+- 📚 I believe in lifelong learning and clean, maintainable code
+- 💡 I’m passionate about solving user-centric problems with elegant UI/UX
+- ✨ Always happy to connect and collaborate on cool ideas!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Tech Stack**
+```js
+Languages:  JavaScript, TypeScript, HTML, CSS
+Frontend:   React, Next.js, Tailwind CSS, Redux, Vite
+Backend:    Node.js, Express, MongoDB, PostgreSQL
+Tools:      Git, GitHub, Docker (basic), Postman, Figma, VS Code
+```
