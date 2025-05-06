@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi everyone 👋
 
 I'm a full-stack JavaScript developer, with a focus on building clean, efficient, and user-friendly web applications.
 I enjoy solving real-world problems with code and continuously learning new technologies to sharpen my skills.
