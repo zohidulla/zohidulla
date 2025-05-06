@@ -11,8 +11,8 @@ I enjoy solving real-world problems with code and continuously learning new tech
 
 🛠️ **Tech Stack**
 ```js
-Languages:  JavaScript, TypeScript, HTML, CSS
-Frontend:   React, Next.js, Tailwind CSS, Redux, Vite
-Backend:    Node.js, Express, MongoDB, PostgreSQL
-Tools:      Git, GitHub, Docker (basic), Postman, Figma, VS Code
+Languages:  JavaScript, TypeScript
+Frontend:   Vue.js, Nuxt, React, Next.js, Tailwind CSS, Vite
+Backend:    Node.js, Express, NestJS, MongoDB, PostgreSQL
+Tools:      Git, GitHub, GitLab, Docker (basic), Postman, Figma, VS Code
 ```
